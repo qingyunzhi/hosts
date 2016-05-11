@@ -1,6 +1,6 @@
 ![doodles][image-1]
 ---- 
-# hello 
+# hello world
 **使用本项目之前，请先阅读此 README 及下方的许可协议**
 
 **目前通过修改 hosts 无法观看 YouTube 视频 详情: [Issue #297][1]**
