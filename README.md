@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![doodles][image-1]
 ---- 
 # hello world我再来试试sync
+=======
+![doodles](https://www.google.com/logos/doodles/2016/teachers-day-2016-us-6296626244091904.2-hp2x.gif)
+
+>>>>>>> parent of ba79186... test
 =======
 ![doodles](https://www.google.com/logos/doodles/2016/teachers-day-2016-us-6296626244091904.2-hp2x.gif)
 
